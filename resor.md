@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Skräddarsydda vinresor
 ---
 
-Vianordnar resor efter era önskemål. [Kontakta oss för mer information.](mailto:munkres@munkres.se)
+Vi anordnar resor efter era önskemål. [Kontakta oss för mer information.](mailto:munkres@munkres.se)
