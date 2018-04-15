@@ -1,6 +1,3 @@
-# Vinresa med Munkfors Reseservice 3 – 14 maj 2017
-
-## Program med reservation för mindre förändringar
 Resan utgår från Madrid. Till Madrid väljer du att ta dig på egen hand med flyg och få några härliga
 storstads- och kulturdagar på egen hand innan själva vinresan påbörjas, eller också följer du med
 bussen som kör ned på fyra dagar, med start från Karlstad på morgonen lördagen den 29 april.
