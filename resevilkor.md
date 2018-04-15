@@ -10,4 +10,4 @@ Slutbetalning skall erläggas 40 dagar före avresa.
 
 Minimiantal deltagare är 25 st.
 
- Klicka på länken för att läsa mer om Allmänna villkor för paketresor.
+ Klicka på länken för att läsa mer om Allmänna villkor för [paketresor.](http://www.konsumentverket.se/globalassets/publikationer/produkter-och-tjanster/resor-och-turism/bo-2014-03-allmanna-villkor-for-paketresor-konsumentverket.pdf)
