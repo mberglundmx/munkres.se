@@ -49,11 +49,11 @@ den världsberömda vingården Vega Sicilia. Vi får en kort visning av Eminas v
 innan vi får prova deras viner. Emina producerar inte bara viner med beteckningen Ribera del Duero
 utan har också viner från Rueda. Efter provningen bjuds vi på lunch tillsammans med vin från
 vingården.
-http://www.emina.es/en/emina-ribera
+(http://www.emina.es/en/emina-ribera)
 
 Efter lunch åker vi de ca 20 milen till Rioja och Haro där vi skall övernatta en natt i ett fd Kloster/
 Militärförläggning/Militärsjukhus (Numera hotell). Vi äter gemensam middag på hotellet.
-http://hotellosagustinos.com/
+(http://hotellosagustinos.com/)
 
 ### Fredag 5 maj 2017
 Redan 09.30 är det dags för dagens första vinprovning, som blir hos den kända producenten Muga i
