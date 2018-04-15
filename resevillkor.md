@@ -1,5 +1,5 @@
 ---
-title: Resevilkor
+title: Resevillkor
 layout: page
 ---
 Vi följer Allmänna villkor för paketresor som överenskommits mellan Konsumentverket och resebranschen med följande tillägg:
