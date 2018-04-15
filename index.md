@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Välkommen
 ---
 Vi är ett reseföretag som specialiserat oss på bussresor/vinresor inom Europa till exempelvis Österrike, Frankrike, Spanien, Tyskland eller Italien. Vi gör även kombinationsresor med flyg ut och buss hem.
 
