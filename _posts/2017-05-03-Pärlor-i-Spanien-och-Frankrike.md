@@ -1,3 +1,6 @@
+---
+excerpt: Vår bekväma buss tar dig från Madrid på en resa som börjar på den spanska högplatån och går till vinområdena kring Duero – Toro och Ribera del Duero - där vi bland annat får prova kraftiga viner gjorda på Tempranillo.
+---
 Resan utgår från Madrid. Till Madrid väljer du att ta dig på egen hand med flyg och få några härliga
 storstads- och kulturdagar på egen hand innan själva vinresan påbörjas, eller också följer du med
 bussen som kör ned på fyra dagar, med start från Karlstad på morgonen lördagen den 29 april.
