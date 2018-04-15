@@ -5,7 +5,7 @@ image: assets/title.png
 ---
 Vi är ett reseföretag som specialiserat oss på bussresor/vinresor inom Europa till exempelvis Österrike, Frankrike, Spanien, Tyskland eller Italien. Vi gör även kombinationsresor med flyg ut och buss hem.
 
-På våra resor kombinerar vi vinprovning med kulturupplevelser på resmålen. Läs vad våra resenärer tycker om våra resor. Klicka på "Vad tycker våra resenärer" i fältet till höger!
+På våra resor kombinerar vi vinprovning med kulturupplevelser på resmålen. [Läs vad våra resenärer tycker om våra resor](/kommentarer).
 
 Under 2014 gjorde vi resor till Piemonte/Rhône/Bourgogne, Österrike och Portugal. 2015 har vi bl a besökt Priorat, Penedès, Languedoc-Roussillon, Rhône och Jura. 2016 gick turerna till Valpolicella och Loire/Chablis/Champagne.
 
