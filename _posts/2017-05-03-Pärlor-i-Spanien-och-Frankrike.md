@@ -1,8 +1,7 @@
-#Vinresa med Munkfors Reseservice 3 – 14 maj 2017
+# Vinresa med Munkfors Reseservice 3 – 14 maj 2017
 
-##Program med reservation för mindre förändringar
-R
-esan utgår från Madrid. Till Madrid väljer du att ta dig på egen hand med flyg och få några härliga
+## Program med reservation för mindre förändringar
+Resan utgår från Madrid. Till Madrid väljer du att ta dig på egen hand med flyg och få några härliga
 storstads- och kulturdagar på egen hand innan själva vinresan påbörjas, eller också följer du med
 bussen som kör ned på fyra dagar, med start från Karlstad på morgonen lördagen den 29 april.
 Bussresan ner är gratis, men du får betala de fyra hotellnätterna och din mat under utresan.
@@ -25,9 +24,9 @@ blir i Champagne med besök hos en producent av denna ädla dryck.
 På hemvägen blir det sedan en övernattning i Buchholz strax söder om Hamburg innan vi resans
 sista dag tar färjan mot Rödby för den fortsatta färden hem.
 
-##Preliminärt detaljprogram
+## Preliminärt detaljprogram
 
-###Onsdag 3 maj 2017
+### Onsdag 3 maj 2017
 
 Bussen hämtar utanför Hotel Praga på Calle Antonio López 65, kl 09.00. Den som vill kan
 naturligtvis övernatta där, men det går ju också bra att ta en taxi på morgonen från sitt eget hotell.
@@ -42,7 +41,7 @@ lokala rätter.
 Efter lunchen åker vi till vårt hotell Mozart i Valladolid där vi skall bo en natt. Middag på kvällen
 på egen hand. Vi föreslår att man provar på några tapas.
 
-###Torsdag 4 maj 2017
+### Torsdag 4 maj 2017
 
 Efter frukost blir det någon timme på egen hand i Valladolid innan vi kl 11.00 reser några mil 
 österut i Ribera del Duero till Vingården Emina, som ligger i Valbuena. Tvärs över floden ligger
@@ -56,7 +55,7 @@ Efter lunch åker vi de ca 20 milen till Rioja och Haro där vi skall övernatta
 Militärförläggning/Militärsjukhus (Numera hotell). Vi äter gemensam middag på hotellet.
 http://hotellosagustinos.com/
 
-###Fredag 5 maj 2017
+### Fredag 5 maj 2017
 Redan 09.30 är det dags för dagens första vinprovning, som blir hos den kända producenten Muga i
 Haro. Här gör vi en noggrann genomgång av deras vineri och får bland annat se hur de tillverkar
 sina egna ekfat. Efter rundvandringen blir det en provning av ett vitt vin och fyra röda i olika
@@ -73,14 +72,14 @@ Efter en kortare rundtur i området ställer vi färden mot Bilbao i Baskien vid
 skall vi bo två nätter på Hotel Conde Duque på promenadavstånd från Guggenheimmuséet och
 stadens olika sevärdheter. Gemensam middag på hotellet första kvällen.
 
-###Lördag 6 maj 2017
+### Lördag 6 maj 2017
 Nu är det vilodag för buss och chaufför. Det betyder att vi utforskar Bilbao till fots och till största
 delen på egen hand. Vi börjar emellertid med att samlas i hotellets entré kl 09.30 för en promenad
 till Guggenheimmuséet och en guidad visning där kl 10.00. Efter visningen kan man välja att
 antingen fortsätta att utforska detta gigantiska muséum på egen hand eller väja och vraka bland
 stadens övriga sevärdheter. Lunch och middag på egen hand.
 
-###Söndag 7 maj 2017
+### Söndag 7 maj 2017
 Vi lämnar nu Spanien och åker till distriktet Jurancon utanför staden Pau i vinregionen Sud-Ouest. I
 Jurancon gör man framför allt söta vita viner på druvorna Petit och Gros Manseng, som kanske inte
 är så kända för alla vinvänner i Sverige. Man gör även torra vita viner på samma druvor och vi får
@@ -92,7 +91,7 @@ Efter provningen åker vi till vårt hotell Best Western Hotel Continental i Pau
 ”hemstad”. Hotellet ligger centralt och vi hoppas det skall finnas lite tid för egna strövtåg i staden
 innan det är dags för gemensam middag på hotellet.
 
-###Måndag 8 maj 2017
+### Måndag 8 maj 2017
 I dag är det tuffa viner gjorda på Tannat, som väntar oss när vi besöker Madiran och producenten
 Alain Brumont på Château Montus och Château Bouscassé. Efter en bussresa på ca en timme möts
 vi på Château Montus för en visning och åker sedan några kilometer till Château Bouscassé för 
@@ -103,7 +102,7 @@ Mätta och belåtna fortsätter vi mot regionen Bordeaux och vårt hotell Mercur
 skall bo två nätter centralt i staden. Middag på egen hand båda kvällarna.
 http://www.accorhotels.com/sv/hotel-6238-hotel-mercure-libourne-saint-emilion/index.shtml
 
-###Tisdag 9 maj 2017
+### isdag 9 maj 2017
 Den här dagen skall vi göra två besök i distriktet Saint Emilion, där man vanligtvis gör viner med
 dominerande inslag av Merlot, kompletterat med framför allt Cabernet Franc, till skillnad från
 Haut-Medoc där oftast Cabernet Sauvignon dominerar.
@@ -121,7 +120,7 @@ http://www.chateau-cantenac.fr/
 
 Vi kommer också att reservera tid för ett kortare besök i staden Saint Emilion.
 
-###Onsdag 10 maj 2017
+### Onsdag 10 maj 2017
 Nu lämnar vi Bordeauxregionen och far vidare norrut mot Loire, där vi framför allt provar söta och
 torra vita viner. På vägen gör vi en avstickare till den lilla staden Cognac för besök på ett av
 Cognacshusen och en gemensam lunch på en av stadens restauranger. I nuläget är det inte bestämt
@@ -131,7 +130,7 @@ Efter detta lilla avbrott i allt vinprovande fortsätter vi mot Angers och vårt
 skall bo två nätter. Middag på egen hand båda kvällarna.
 http://www.accorhotels.com/sv/hotel-0848-ibis-angers-centre-chateau/index.shtml#
 
-###Torsdag 11 maj 2017
+### Torsdag 11 maj 2017
 Nu övergår vi till vita viner – både torra och söta. Dagen börjar med en provning i sötvinsdistriktet
 Coteaux de Layon hos Domaine de la Soucherie. Förutom deras vita viner får vi också prova rosé
 och rött. I samband med provningen äter vi en buffélunch ackompanjerad av deras viner.
@@ -144,7 +143,7 @@ http://www.savennieres-closel.com/
 
 Tillbaka i Angers finns kanske tid för lite strövtåg på egen hand i staden.
 
-###Fredag 12 maj 2017
+### Fredag 12 maj 2017
 Efter Loire är det dags att stifta bekantskap med Champagne. Vi gör ett kort besök. Efter bussfika
 och lunch på egen hand längs vägen kommer vi till Epernay på tidig eftermiddag och hinner med ett
 kortare besök i Champagnens huvudstad innan vi åker till den lilla byn Moussy några kilometer bort
@@ -155,13 +154,13 @@ Efterprovningen checkar vi in på Auberge Champanoise, som bara ligger ett par h
 byn. Där skall vi bo en natt. Gemensam middag på hotellet
 http://www.auberge-champenoise.fr/
 
-###Lördag 13 maj 2017
+### Lördag 13 maj 2017
 Tidig avresa med sikte på Buchholz och Hotel Fromman, strax söder om Hamburg. Bussfika och
 lunch på egen hand längs vägen. Gemensam middag på hotellet. Förutom hotell och restaurang
 driver man ett eget ölbryggeri. Deras öl serveras i restaurangen.
 http://www.hotelfrommann.de/
 
-###Söndag 14 maj 2017
+### Söndag 14 maj 2017
 Sista etappen går från Buchholz via Rödby-Puttgarden och Helsingborg-Helsingör med ankomst till
 Karlstad ca kl 22.00. Måltider på egen hand längs vägen. Om utrymme och tid finns, görs ett
 kortare stopp vid Bordershop i Puttgarden för smärre kompletterande inköp.
