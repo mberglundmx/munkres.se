@@ -102,7 +102,7 @@ Mätta och belåtna fortsätter vi mot regionen Bordeaux och vårt hotell Mercur
 skall bo två nätter centralt i staden. Middag på egen hand båda kvällarna.
 http://www.accorhotels.com/sv/hotel-6238-hotel-mercure-libourne-saint-emilion/index.shtml
 
-### isdag 9 maj 2017
+### Tisdag 9 maj 2017
 Den här dagen skall vi göra två besök i distriktet Saint Emilion, där man vanligtvis gör viner med
 dominerande inslag av Merlot, kompletterat med framför allt Cabernet Franc, till skillnad från
 Haut-Medoc där oftast Cabernet Sauvignon dominerar.
